@@ -17,31 +17,16 @@
 <p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 ## Structure of the program
-
-
-
-## How to run the program
-
-> 1.  Run Command Prompt (CMD) on Windows or Terminal on macOS/Linux
-> 2.  Change directory which includes the Parser.jar file.
-> 3.  Type in the command lines with arguments like the example below.
-> 4.  Command examples:
-
-```sh
-> java -jar Parser.jar res/sample1.xml
-```
-
-![ResultExample1](./img/ResultExample1.jpg?raw=true)
-
-```sh
-> java -jar Parser.jar res/sample2.xml
-```
-
-![ResultExample2](./img/ResultExample2.jpg?raw=true)
+<img src="structure.jpg">
 
 ## Testing
 
 > Result of the JUnit Test
+<img src="MyArrayListTests.jpg">
+<img src="MySLLTests.jpg">
+<img src="MyStackTests.jpg">
+<img src="MyQueueTests.jpg">
+
 
 
 
